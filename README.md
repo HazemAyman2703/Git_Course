@@ -1,4 +1,4 @@
-# Gir_Course
+# Git_Course
 For Elzero Web School Git Course
 
 ## Projects Notes
